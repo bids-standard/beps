@@ -1,1 +1,1 @@
-moved to docs/standards/schema/how-the-schema-works.md
+Moved [here](https://bids-website.readthedocs.io/en/latest/standards/schema/how-the-schema-works.html).

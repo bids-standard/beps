@@ -1,1 +1,1 @@
-moved to docs/standards/schema/schema_rules.md
+Moved [here](https://bids-website.readthedocs.io/en/latest/standards/schema/schema-rules.html).

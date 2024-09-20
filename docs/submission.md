@@ -1,1 +1,2 @@
-moved to docs/extensions/submission.md
+Moved
+[here](https://bids-website.readthedocs.io/en/latest/extensions/submission.html).

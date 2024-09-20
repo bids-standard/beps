@@ -1,1 +1,1 @@
-moved to docs/extensions/specific_guidelines.md
+Moved [here](https://bids-website.readthedocs.io/en/latest/extensions/general-guidelines.html).
